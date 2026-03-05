@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/CMakeFiles/bootloader
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/CMakeFiles/bootloader.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/CMakeFiles/bootloader-complete.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

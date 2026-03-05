@@ -1,0 +1,2 @@
+source /home/ronin/Projects/Compumed/c6_slave_build/slave/build/gdbinit/symbols
+source /home/ronin/Projects/Compumed/c6_slave_build/slave/build/gdbinit/connect

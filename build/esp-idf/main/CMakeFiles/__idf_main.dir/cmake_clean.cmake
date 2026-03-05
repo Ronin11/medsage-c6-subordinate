@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/__idf_main.dir/common/proto/esp_hosted_rpc.pb-c.c.obj"
+  "CMakeFiles/__idf_main.dir/common/proto/esp_hosted_rpc.pb-c.c.obj.d"
+  "CMakeFiles/__idf_main.dir/common/utils/esp_hosted_cli.c.obj"
+  "CMakeFiles/__idf_main.dir/common/utils/esp_hosted_cli.c.obj.d"
+  "CMakeFiles/__idf_main.dir/esp_hosted_coprocessor.c.obj"
+  "CMakeFiles/__idf_main.dir/esp_hosted_coprocessor.c.obj.d"
+  "CMakeFiles/__idf_main.dir/example_peer_data_transfer.c.obj"
+  "CMakeFiles/__idf_main.dir/example_peer_data_transfer.c.obj.d"
+  "CMakeFiles/__idf_main.dir/host_power_save.c.obj"
+  "CMakeFiles/__idf_main.dir/host_power_save.c.obj.d"
+  "CMakeFiles/__idf_main.dir/mempool.c.obj"
+  "CMakeFiles/__idf_main.dir/mempool.c.obj.d"
+  "CMakeFiles/__idf_main.dir/mempool_ll.c.obj"
+  "CMakeFiles/__idf_main.dir/mempool_ll.c.obj.d"
+  "CMakeFiles/__idf_main.dir/nw_split_router.c.obj"
+  "CMakeFiles/__idf_main.dir/nw_split_router.c.obj.d"
+  "CMakeFiles/__idf_main.dir/protocomm_pserial.c.obj"
+  "CMakeFiles/__idf_main.dir/protocomm_pserial.c.obj.d"
+  "CMakeFiles/__idf_main.dir/sdio_slave_api.c.obj"
+  "CMakeFiles/__idf_main.dir/sdio_slave_api.c.obj.d"
+  "CMakeFiles/__idf_main.dir/slave_bt.c.obj"
+  "CMakeFiles/__idf_main.dir/slave_bt.c.obj.d"
+  "CMakeFiles/__idf_main.dir/slave_bt_uart_esp32xx.c.obj"
+  "CMakeFiles/__idf_main.dir/slave_bt_uart_esp32xx.c.obj.d"
+  "CMakeFiles/__idf_main.dir/slave_control.c.obj"
+  "CMakeFiles/__idf_main.dir/slave_control.c.obj.d"
+  "CMakeFiles/__idf_main.dir/slave_light_sleep.c.obj"
+  "CMakeFiles/__idf_main.dir/slave_light_sleep.c.obj.d"
+  "CMakeFiles/__idf_main.dir/stats.c.obj"
+  "CMakeFiles/__idf_main.dir/stats.c.obj.d"
+  "CMakeFiles/__idf_main.dir/transport_gpio_pin_guard.c.obj"
+  "CMakeFiles/__idf_main.dir/transport_gpio_pin_guard.c.obj.d"
+  "libmain.a"
+  "libmain.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/__idf_main.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,36 @@
+esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/adc_periph.c.obj: \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/esp32c6/adc_periph.c \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/include/soc/adc_periph.h \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/esp32c6/include/soc/soc.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/14.2.0/include/stdint.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/stdint.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/machine/_default_types.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/features.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/_newlib_version.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/_intsup.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/_stdint.h \
+ /home/ronin/esp/esp-idf-v5.4/components/esp_common/include/esp_assert.h \
+ /home/ronin/esp/esp-idf-v5.4/components/newlib/platform_include/assert.h \
+ /home/ronin/Projects/Compumed/c6_slave_build/slave/build/bootloader/config/sdkconfig.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/stdlib.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/machine/ieeefp.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/_ansi.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/newlib.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/config.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/14.2.0/include/stddef.h \
+ /home/ronin/esp/esp-idf-v5.4/components/newlib/platform_include/sys/reent.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/reent.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/_ansi.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/_types.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/machine/_types.h \
+ /home/ronin/esp/esp-idf-v5.4/components/newlib/platform_include/sys/lock.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/lock.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/cdefs.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/machine/stdlib.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/alloca.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/sys/_locale.h \
+ /home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/riscv32-esp-elf/include/assert.h \
+ /home/ronin/esp/esp-idf-v5.4/components/esp_common/include/esp_bit_defs.h \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/esp32c6/register/soc/reg_base.h \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/esp32c6/include/soc/soc_caps.h \
+ /home/ronin/esp/esp-idf-v5.4/components/soc/esp32c6/include/soc/adc_channel.h

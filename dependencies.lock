@@ -1,0 +1,75 @@
+dependencies:
+  cmd_system:
+    dependencies: []
+    source:
+      path: /home/ronin/esp/esp-idf-v5.4/examples/system/console/advanced/components/cmd_system
+      type: local
+    version: '*'
+  esp-qa/ping-cmd:
+    component_hash: fe97de564088c2152234a27135e04b1db0b6a1f2075a684369f4a1f537502005
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.3'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.0.0
+  esp-qa/wifi-cmd:
+    component_hash: fd7076573a3c2f060071f58ac67faf5c21a06206a2ba9a593115c7234f98549c
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.3'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.1.10
+  espressif/iperf:
+    component_hash: f4c2beaae50478a626995130d2611c628b7a568cd0799022758c05658928410c
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.3'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.1.4
+  espressif/iperf-cmd:
+    component_hash: 1bb639fa395a34c72a1dacf53342c798c4c7d56731b370c5efc75063e831bf32
+    dependencies:
+    - name: espressif/iperf
+      registry_url: https://components.espressif.com
+      require: private
+      version: =0.1.4
+    - name: idf
+      require: private
+      version: '>=4.3'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 0.1.4
+  espressif/mqtt:
+    component_hash: ffdad5659706b4dc14bc63f8eb73ef765efa015bf7e9adf71c813d52a2dc9342
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=5.3'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.0.0
+  idf:
+    source:
+      type: idf
+    version: 5.4.3
+direct_dependencies:
+- cmd_system
+- esp-qa/ping-cmd
+- esp-qa/wifi-cmd
+- espressif/iperf
+- espressif/iperf-cmd
+- espressif/mqtt
+manifest_hash: 391f30aee98d516b243d561439d9f6f3c800e5c6ade4bb9d2a628dff883e95de
+target: esp32c6
+version: 2.0.0

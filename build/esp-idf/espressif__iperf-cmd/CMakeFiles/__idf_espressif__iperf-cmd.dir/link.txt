@@ -1,2 +1,0 @@
-/home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/bin/riscv32-esp-elf-ar qc libespressif__iperf-cmd.a "CMakeFiles/__idf_espressif__iperf-cmd.dir/iperf_cmd.c.obj"
-/home/ronin/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20250730/riscv32-esp-elf/bin/riscv32-esp-elf-ranlib libespressif__iperf-cmd.a
